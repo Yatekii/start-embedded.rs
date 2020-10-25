@@ -1,0 +1,8 @@
+pre {
+    width: 100%;
+
+    & code.hljs {
+        margin-top: -1em;
+        padding: 1em;
+    }
+}
