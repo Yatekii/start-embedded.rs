@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://start-embedded.rs/sitemap.xml
